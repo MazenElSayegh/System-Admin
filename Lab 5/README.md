@@ -21,9 +21,7 @@
 
 8- sudo gparted /dev/loop6
 
-<br>
-![1](https://user-images.githubusercontent.com/122295277/222158256-69422ed9-0f95-4eca-9981-0337bd22c600.png)
-<br>
-![2](https://user-images.githubusercontent.com/122295277/222158269-bd454ef7-39c2-4af3-a4ae-5817016a0b56.png)
-<br>
-![3](https://user-images.githubusercontent.com/122295277/222158280-bc9183ae-f686-4571-994f-6b66873bebae.png)
+![1](https://user-images.githubusercontent.com/122295277/222160087-a6dc9cc6-b958-458e-887e-c3d6239a6c2a.png)
+![2](https://user-images.githubusercontent.com/122295277/222160116-b97bbc0e-a056-46a0-9806-c94917bb7196.png)
+![3](https://user-images.githubusercontent.com/122295277/222160069-9b130665-7673-4803-bc0d-6d35ca5ab564.png)
+
